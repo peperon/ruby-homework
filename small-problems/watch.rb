@@ -1,4 +1,4 @@
 watch('.\.rb') do
   system 'clear'
-  system 'rspec solution5_test.rb --require ./solution5.rb --colour --format documentation'
+  system 'rspec solution6_test.rb --require ./solution6.rb --colour --format documentation'
 end
